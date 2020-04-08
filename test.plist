@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>assets</key>
+			<array>
+				<dict>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string>http://221.228.70.88:5569/web/dowtest/test.ipa</string>	<--ipa文件地址-->
+				</dict>
+			</array>
+			<key>metadata</key>
+			<dict>
+				<key>bundle-identifier</key>
+          <string> com.05infoqy.jingJiDiLi</string>		<--appId-->
+        <key>bundle-version</key>
+				  <string>1.0.0</string>				<--版本号-->
+				<key>kind</key>
+				  <string>software</string>
+				<key>title</key>
+				  <string>Test</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
