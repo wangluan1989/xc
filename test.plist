@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://221.228.70.88:5569/web/dowtest/test.ipa</string>	<--ipa文件地址-->
+					<string>http://221.228.70.94:7004/DSS/app/sjzc.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-          <string> com.05infoqy.jingJiDiLi</string>		<--appId-->
+          <string> com.05infoqy.jingJiDiLi</string>
         <key>bundle-version</key>
-				  <string>1.0.0</string>				<--版本号-->
+				  <string>1.0.0</string>
 				<key>kind</key>
 				  <string>software</string>
 				<key>title</key>
-				  <string>Test</string>
+				  <string>数据资产</string>
 			</dict>
 		</dict>
 	</array>
